@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SuperModuleTest02/.vs/SuperModuleTest02/v15
+/SuperModuleTest02/SuperModuleTest02/obj
